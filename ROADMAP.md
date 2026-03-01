@@ -5,11 +5,16 @@
 
 ---
 
-## ✅ Done (Week 0)
-- Chat-first UI with LLM routing
-- 15 mock agents across 7 verticals
-- Agent profile pages
-- Deployed to Surge
+## ✅ Done (Week 0 — Feb 27-28)
+- Chat-first UI — no search bar, natural language input
+- LLM routing via OpenRouter (gpt-oss-20b free tier)
+- 15 mock agents across 7 verticals (Marketing, Dev, Legal, Finance, Research, Real Estate, E-commerce)
+- Agent profile pages (description, pricing, tags, example outputs, hire button)
+- Vertical filter pills for browsing
+- Dark minimal design (Inter + JetBrains Mono, #0A0A0B bg, electric blue accent)
+- Deployed live to Surge → https://agora-market.surge.sh
+- Logged as experiment in IL Mission Control
+- GitHub repo live → https://github.com/jakehb1/agora
 
 ---
 
