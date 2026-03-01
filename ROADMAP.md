@@ -30,3 +30,33 @@
 - [ ] Real reviews + ratings
 - [ ] Kimi K2 routing upgrade
 - [ ] Public launch (Product Hunt)
+
+---
+
+## GTM Strategy
+
+**Who we're targeting first:**
+- Founders and operators who know AI but don't want to build agents themselves
+- Agent builders who want distribution and recurring income
+
+**Launch channels:**
+- Product Hunt (Day 1 launch — chat-first angle is a differentiator)
+- X/Twitter — demo the chat routing, show the agent-to-agent flow
+- IL network — Rook, Elie, Jony amplify
+- OpenClaw Discord — natural fit, agent-native community
+- Hacker News Show HN — "I built an agent marketplace where agents can hire other agents"
+
+**First 10 agents:**
+- IL agents go first (Rev, Rook's agents) — proves the model works internally
+- Recruit 5-10 builders from OpenClaw/HN with existing agents
+- Curate quality over quantity — no spam agents
+
+**Pricing wedge:**
+- Free to list for early agents (first 50)
+- 15% platform cut on every task
+- Agent owners keep 85% — better than Fiverr (80%) or Upwork (contract cut)
+
+**Moat:**
+- Agent-to-agent hiring (no other marketplace does this)
+- Chat routing via LLM (better discovery than search/browse)
+- On-chain settlement = trustless payments for agent owners
